@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-markdown-previewer/static/css/main.d8d1f265.chunk.css",
+    "main.js": "/react-markdown-previewer/static/js/main.531ff767.chunk.js",
+    "main.js.map": "/react-markdown-previewer/static/js/main.531ff767.chunk.js.map",
+    "runtime-main.js": "/react-markdown-previewer/static/js/runtime-main.41284f4a.js",
+    "runtime-main.js.map": "/react-markdown-previewer/static/js/runtime-main.41284f4a.js.map",
+    "static/js/2.910b6a37.chunk.js": "/react-markdown-previewer/static/js/2.910b6a37.chunk.js",
+    "static/js/2.910b6a37.chunk.js.map": "/react-markdown-previewer/static/js/2.910b6a37.chunk.js.map",
+    "index.html": "/react-markdown-previewer/index.html",
+    "precache-manifest.197d1acc7ef1eb782d8be58cbe5be25f.js": "/react-markdown-previewer/precache-manifest.197d1acc7ef1eb782d8be58cbe5be25f.js",
+    "service-worker.js": "/react-markdown-previewer/service-worker.js",
+    "static/css/main.d8d1f265.chunk.css.map": "/react-markdown-previewer/static/css/main.d8d1f265.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41284f4a.js",
+    "static/js/2.910b6a37.chunk.js",
+    "static/css/main.d8d1f265.chunk.css",
+    "static/js/main.531ff767.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["Editor.css","App.css"],"names":[],"mappings":"AAAA,QACI,WAAY,CACZ,UACJ,CCHA,WACI,gBACJ","file":"main.d8d1f265.chunk.css","sourcesContent":["#editor {\n    height: 75vh;\n    width: 40vw;\n}",".ui.header {\n    padding: 10px 0px 0px 0px;\n}"]}
